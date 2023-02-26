@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontendmentor-rating-card/static/css/main.84c7758f.css",
+    "main.js": "/frontendmentor-rating-card/static/js/main.66b6cc6e.js",
+    "static/media/illustration-thank-you.svg": "/frontendmentor-rating-card/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/frontendmentor-rating-card/index.html",
+    "static/media/icon-star.svg": "/frontendmentor-rating-card/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg"
+  },
+  "entrypoints": [
+    "static/css/main.84c7758f.css",
+    "static/js/main.66b6cc6e.js"
+  ]
+}
